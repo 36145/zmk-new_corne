@@ -78,7 +78,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - HOME
   - {t: ., s: '>'}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:progress-download$$
   - RGB OFF
   - RGB ON
   - {t: '$$mdi:transfer$$', type: trans}
@@ -111,7 +111,7 @@ layers:
   - '*'
   - (
   - )
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:progress-download$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:bluetooth-off$$
   - $$mdi:mouse-left-click-outline$$
